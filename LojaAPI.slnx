@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="dotnet.yml" />
+  </Folder>
+  <Project Path="LojaApi.Tests/LojaApi.Tests.csproj" />
+  <Project Path="LojaAPI/LojaAPI.csproj" />
+</Solution>
